@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuryaSaini98
+- 👋 Hi, I’m Surya Pratap Saini
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Framework
 - 💞️ I’m looking to collaborate on web development projects 
